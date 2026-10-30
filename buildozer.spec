@@ -5,7 +5,7 @@ package.domain = org.mercado
 source.dir = .
 source.include_exts = py
 version = 0.1
-requirements = python3,kivy==2.3.0,requests,urllib3,idna,charset-normalizer,certifi,beautifulsoup4,soupsieve,typing_extensions
+requirements = python3==3.11.5,hostpython3==3.11.5,kivy==2.3.0,requests,urllib3,idna,charset-normalizer,certifi,beautifulsoup4,soupsieve,typing_extensions
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET
